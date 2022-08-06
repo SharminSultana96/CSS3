@@ -1,0 +1,24 @@
+* {
+	text-align: center;
+}
+
+h1,h2,h3,h4 {
+	text-align: left;
+	color: #5746D9;
+}
+.paragraph {
+		font-size: 22px;
+		color: #F66D57;
+		background-color: #EBE77D;
+}
+
+article.main {
+	background-color: #E29DF9;
+	border: 2px solid black;
+}
+
+.large {
+	font-size: 40px;
+}
+
+
